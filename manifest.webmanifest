@@ -1,0 +1,13 @@
+{
+  "name": "Мои смены",
+  "short_name": "Смены",
+  "description": "Рабочий календарь: смены, время работы, выходные, праздники России и заметки.",
+  "lang": "ru",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#11151b",
+  "theme_color": "#11151b",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }]
+}
